@@ -11,7 +11,7 @@ There are 3 functions for calculating MODI, the core function `modi`, and two wr
 This script will work for both multiclass and binary labeled data. Additionally, beside just getting overall MODI, you can also get the un-normalized MODI of each class, allowing you to get a rough idea of teh balacning of your dataset and its distribution
 
 ### Command line
-This script can also be used as a stand alone command line call. using modi -h so see the list of parameter and options that can be used
+This script can also be used as a stand alone command line call. using `modi.py -h` so see the list of parameter and options that can be used
 
 ## Reference
 [1]: Alexander Golbraikh, Eugene Muratov, Denis Fourches, and Alexander Tropsha
